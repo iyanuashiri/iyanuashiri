@@ -41,7 +41,6 @@ query Posts ($page: Int) {
         id
         title
         date (format: "MMMM D, Y")
-        summary
         timeToRead
         path
       }

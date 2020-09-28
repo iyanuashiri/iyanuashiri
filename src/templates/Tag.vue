@@ -48,7 +48,6 @@ query Tag ($id: ID!, $page: Int) {
             timeToRead
               date (format: "MMMM D, YYYY")
             path
-            summary
             tags {
               title
             }
