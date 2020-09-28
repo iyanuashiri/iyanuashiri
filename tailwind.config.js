@@ -21,13 +21,6 @@ module.exports = {
         }
     },
     theme: {
-        screens: {
-            'xs': { 'max': '300px' },
-            'sm': { 'max': '768px' },
-            'md': { 'max': '900px'},
-            'lg': { 'max': '1024px' },
-            'xl': { 'max': '1280px' },
-        },
         extend: {
             spacing: {
                 '80': '20rem',
