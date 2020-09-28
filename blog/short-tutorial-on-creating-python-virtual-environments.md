@@ -2,9 +2,9 @@
 title: How to Create Python Virtual Environment
 path: /python-virtual-environment
 date: 2019-02-17
-summary: How to create and activate Python Virtual Environment using virtualenv
 tags: ['python']
 ---
+
 
 Before starting any Python project, it is highly recommended and best practice to create 
 a virtual environment. The tool we use for creating virtual environments is called virtualenv.

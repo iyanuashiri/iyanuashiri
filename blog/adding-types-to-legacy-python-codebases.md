@@ -1,11 +1,12 @@
 ---
-title: Adding Type Hints to Legacy Python Codebases
-path: /adding-types-to-legacy-python-codebases
-date: 2019-03-07
+title: Adding Type Hints to Legacy Python Codebase
+path: /adding-types-to-legacy-python-codebase
+date: 2019-02-14
 tags: ['python']
 ---
 
-# Type Hints: Adding Types to Legacy Codebases
+
+# Adding Type Hints to Legacy Codebase
 
 ## Introduction
 
