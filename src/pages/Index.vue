@@ -13,7 +13,7 @@
         Oh, the above is what I do. I want to make a conscious effort to describe myself by who I am and not what I do. So head over to my Twitter page <a href="https://www.twitter.com/iyanuashiri">@IyanuAshiri</a> to know who I am.</p>
     </div>
 
-    <div class="overflow-x-hidden">
+    <div class="overflow-x-auto">
       <div class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
           <h2 class="font-bold mb-6" id="contact">Contact me:</h2>
