@@ -13,13 +13,13 @@
         Oh, the above is what I do. I want to make a conscious effort to describe myself by who I am and not what I do. So head over to my Twitter page <a href="https://www.twitter.com/iyanuashiri">@IyanuAshiri</a> to know who I am.</p>
     </div>
 
-    <div class="overflow-x-auto">
+    <div class="overflow-x-hidden">
       <div class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
           <h2 class="font-bold mb-6" id="contact">Contact me:</h2>
 
           <div class="absolute right-0 top-0" style="transform: translate(100%) rotate(180deg)">
-            <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
+            <svg width="170px" height="120px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
           <p class="mb-12">Want to work together or have any questions?</p>
