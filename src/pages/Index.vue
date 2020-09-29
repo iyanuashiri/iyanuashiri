@@ -8,7 +8,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">Hi I'm Iyanuoluwa. My nickname is Ashiri (meaning secret). I'm a Software Engineer and a Technical Writer. My favourite tool is Python, but if need be, I can use JavaScript. I am currently learning to use Golang.
+      <p class="text-lg sm:text-xl">I'm a Software Engineer and a Technical Writer. My favourite tool is Python, but if need be, I can use JavaScript. I am currently learning to use Golang.
         I love to meet new and interesting people, read good books, and write about what I have read. I contribute to opensource, speak about new, hard, interesting stuff in the Python community, and mentor new developers.
         Oh, the above is what I do. I want to make a conscious effort to describe myself by who I am and not what I do. So head over to my Twitter page @IyanuAshiri to know who I am.</p>
     </div>
