@@ -11,7 +11,7 @@
 
             <ul class="text-lg sm:text-xl space-y-6">
               <li>
-                <div><a href="https://github.com/iyanuashiri/meethub">MeetHub</a></div>
+                <div><a href="https://github.com/iyanuashiri/meethub">meethub</a></div>
                 <div class="text-lg text-gray-600">This is a Python/Django based event management system. A meetup clone.</div>
               </li>
               <li>
@@ -23,7 +23,7 @@
                 <div class="text-lg text-gray-600"></div>
               </li>
               <li>
-                <div><a href="https://github.com/iyanuashiri/twitterivity">Twitterivity</a></div>
+                <div><a href="https://github.com/iyanuashiri/twitterivity">twitterivity</a></div>
                 <div class="text-lg text-gray-600">A browser extension that improves your productivity by reducing your Twitter usage</div>
               </li>
               <li>
