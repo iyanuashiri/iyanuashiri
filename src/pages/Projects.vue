@@ -10,39 +10,39 @@
             </div>
 
             <ul class="text-lg sm:text-xl space-y-6">
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/meethub">MeetHub</a></div>
                 <div class="text-lg text-gray-600">This is a Python/Django based event management system. A meetup clone.</div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/stock-manager">stock-manager</a></div>
                 <div class="text-lg text-gray-600"></div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/stock-manager-vue">stock-manager-vue</a></div>
                 <div class="text-lg text-gray-600"></div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/twitterivity">Twitterivity</a></div>
                 <div class="text-lg text-gray-600">A browser extension that improves your productivity by reducing your Twitter usage</div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/twilio-sms-action">twilio-sms-action</a></div>
                 <div class="text-lg text-gray-600">Twilio sms action</div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/celeroku">celeroku</a></div>
                 <div class="text-lg text-gray-600">Deploy Celery Flower to Heroku </div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/wikipedia-reference-scraper">Wikipedia-reference-scraper</a></div>
                 <div class="text-lg text-gray-600">Wikipedia API wrapper for references </div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/store">store</a></div>
                 <div class="text-lg text-gray-600">A tool to store terminal commands and create a backup on Google drive.</div>
               </li>
-              <li class="checkmark">
+              <li>
                 <div><a href="https://github.com/iyanuashiri/africastalking_USSD_demo">africastalking_USSD_demo</a></div>
                 <div class="text-lg text-gray-600">Africastalking USSD Demo</div>
               </li>
