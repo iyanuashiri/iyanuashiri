@@ -43,6 +43,10 @@
                 <div class="text-lg text-gray-600">A tool to store terminal commands and create a backup on Google drive.</div>
               </li>
               <li>
+                <div><a href="https://github.com/iyanuashiri/dj-cart">dj-cart</a></div>
+                <div class="text-lg text-gray-600">A simple shopping cart app for Django that is not session based</div>
+              </li>
+              <li>
                 <div><a href="https://github.com/iyanuashiri/africastalking_USSD_demo">africastalking_USSD_demo</a></div>
                 <div class="text-lg text-gray-600">Africastalking USSD Demo</div>
               </li>
