@@ -9,7 +9,7 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">I'm a Software Engineer and a Technical Writer. My favourite tool is Python, but if need be, I can use JavaScript. I am currently learning to use Golang.
-        I love to meet new and interesting people, read good books, and write about what I have read. I contribute to opensource, speak about new, hard, interesting stuff in the Python community, and mentor new developers.
+        I love to meet new and interesting people, read good books, teach and mentor junior developers. I know how to know things.
         Oh, the above is what I do. I want to make a conscious effort to describe myself by who I am and not what I do. So head over to my Twitter page <a href="https://www.twitter.com/iyanuashiri">@IyanuAshiri</a> to know who I am.</p>
     </div>
 
