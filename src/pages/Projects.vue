@@ -32,7 +32,8 @@
               </li>
 
             </ul>
-
+          </div>
+          <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
 
             <h2 class="font-bold mb-6 padding-box" id="libraries">Here are open source libraries I have worked on:</h2>
 
