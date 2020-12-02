@@ -50,7 +50,7 @@
                 <div><a href="https://github.com/iyanuashiri/wikipedia-reference-scraper">Wikipedia-reference-scraper</a></div>
                 <div class="text-lg text-gray-600">A Wikipedia API wrapper for references.</div>
               </li>
-              <li class="checkmark">Ayomide Oyekanmi
+              <li class="checkmark">
                 <div><a href="https://github.com/iyanuashiri/dj-cart">dj-cart</a></div>
                 <div class="text-lg text-gray-600">A simple shopping cart app for Django that is not session based.</div>
               </li>
