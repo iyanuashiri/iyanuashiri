@@ -33,7 +33,8 @@
 
             </ul>
 
-            <h2 class="font-bold mb-6" id="libraries">Here are open source libraries I have worked on:</h2>
+
+            <h2 class="font-bold mb-6 padding-box" id="libraries">Here are open source libraries I have worked on:</h2>
 
             <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
               <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
@@ -48,7 +49,7 @@
                 <div><a href="https://github.com/iyanuashiri/wikipedia-reference-scraper">Wikipedia-reference-scraper</a></div>
                 <div class="text-lg text-gray-600">A Wikipedia API wrapper for references.</div>
               </li>
-              <li class="checkmark">
+              <li class="checkmark">Ayomide Oyekanmi
                 <div><a href="https://github.com/iyanuashiri/dj-cart">dj-cart</a></div>
                 <div class="text-lg text-gray-600">A simple shopping cart app for Django that is not session based.</div>
               </li>

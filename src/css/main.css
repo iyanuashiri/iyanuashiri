@@ -123,3 +123,7 @@ nav .active {
     height: 100%;
     border: 0;
 }
+
+.padding-box {
+    padding-top: 30px;
+}
