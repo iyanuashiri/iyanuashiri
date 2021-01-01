@@ -9,8 +9,8 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">I am a Software Engineer with about 5 years of experience noticing problems, building solutions, leveraging with technology
-        and scaling solutions. I prefer Python for backend development, JavaScript for frontend and browser extension development, Google Cloud; Heroku;
-        and Netlify for cloud computing, and I have experience working with Flutter and Dart. I know how to know things.
+        and scaling solutions. I prefer Python for backend development, JavaScript for frontend and browser extension development, Google Cloud Platform; Heroku;
+        and Netlify for cloud computing, and I have experience working with Flutter and Dart. I am currently learning Golang for commandline tools and Machine Learning. I know how to know things.
       </p>
     </div>
 
