@@ -1,5 +1,5 @@
 ---
-title: 2020 in Review: My Amnesia Story
+title: "2020 in Review: My Amnesia Story"
 path: /2020-in-review-amnesia-story.md
 date: 2020-31-12
 tags: ['life']
