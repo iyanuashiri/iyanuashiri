@@ -8,9 +8,9 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto my-8">
-      <p class="text-lg sm:text-xl">I am a Software Engineer with about 5 years of experience noticing problems, building solutions, leveraging technology
-        and scaling solutions. I prefer Python for backend development, JavaScript for frontend and browser extension development, Google Cloud Platform; Heroku;
-        and Netlify for cloud computing, and I have experience working with Flutter and Dart. I am currently learning Golang for building command line tools and Machine Learning. I know how to know things.
+      <p class="text-lg sm:text-xl">I am a Software Engineer with about 4 years of experience noticing problems, building solutions, leveraging technology
+        and scaling solutions. I have experience with Python/Django/Flask for backend development and JavaScript/Vuejs for frontend and browser extension development.
+        I have used AWS, Google Cloud Platform, Heroku, Vercel, Netlify, and Pulumi for cloud computing. I am learning Machine Learning and Data Engineering.
       </p>
     </div>
 
