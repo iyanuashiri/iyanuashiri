@@ -6,6 +6,8 @@ tags: ['python']
 ---
 
 
+## Introduction
+
 Before starting any Python project, it is highly recommended and best practice to create 
 a virtual environment. The tool we use for creating virtual environments is called virtualenv.
 Virtualenv isolates your Python set-up on a per-project basis. This means 

@@ -6,8 +6,6 @@ tags: ['life']
 ---
 
 
-# 2020 in Review: My Amnesia Story
-
 ![Amnesia](https://res.cloudinary.com/iyanuashiri/image/upload/v1610486524/amnesia.jpg)
 
 ## The Story

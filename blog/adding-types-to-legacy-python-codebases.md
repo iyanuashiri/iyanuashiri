@@ -6,8 +6,6 @@ tags: ['python']
 ---
 
 
-# Adding Type Hints to Legacy Codebase
-
 ## Introduction
 
 Python is an interpreted and dynamic language. This means Python code is executed at runtime and also

@@ -6,6 +6,8 @@ tags: ['python']
 ---
 
 
+## Introduction
+
 The first time you get introduced to Python's variable, it is usually defined as "parts
 of your computer’s memory where you store some information." Some define it as a "storage placeholder 
 for texts and numbers." We will soon find out that Python's variable is deeper than this. 
