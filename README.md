@@ -30,8 +30,8 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/iyanuoluwa-ajao)
-- [Portfolio](your-website)
-- Substack:  [The Rise of AI](https://theriseofai.substack.com)
+- [Technical Blog](https://iyanuashiri.hashnode.dev)
+- [The Rise of AI Newsletter](https://theriseofai.substack.com) - Exploring AI's impact on startups, careers, and everything in between, and providing practical insights and frameworks to navigate this new era.
 - Email: ajaoiyanu@gmail.com
 
 ## GitHub Stats
