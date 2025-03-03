@@ -16,7 +16,7 @@ Software developer passionate about creating tools that improve digital experien
 
 ## Featured Projects
 
-### Chaperone Digital Well-being Chrome Extension
+### [Chaperone Digital Well-being Chrome Extension](https://github.com/iyanuashiri/chaperone)
 I built an open-source tool that reduces social media usage while teaching vocabulary and simple maths using AI. I conducted a four-week self-experiment showing significant reductions in session duration and improved well-being metrics by building on research papers like Hunt et al., 2018; Kross et al., 2013. The extension disrupts passive scrolling through cognitive tasks that promote mindfulness and improved digital mental health. Built with JavaScript. 
 
 ### SummarizerBot
