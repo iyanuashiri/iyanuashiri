@@ -2,7 +2,7 @@
 # Hello, I'm Iyanuoluwa Ajao 👋
 
 ## About Me
-Software developer passionate about creating tools that improve digital experiences and productivity.
+Software and AI Engineer passionate about creating tools that improve digital experiences and productivity.
 
 ## Skills
 - Languages: JavaScript, Python, HTML, CSS
