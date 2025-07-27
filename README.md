@@ -2,7 +2,7 @@
 # Hello, I'm Iyanuoluwa Ajao 👋
 
 ## About Me
-Software and AI Engineer passionate about creating tools that improve digital experiences and productivity.
+I am a Software and AI Engineer with over 6 years of experience. I am also an AWS Community Builder. Currently, working on ClassmateBot, a WhatsApp-based AI learning assitant that helps secondary school students learn, retain knowledge, and pass their exams. I am also passionate about creating tools that improve digital experiences and productivity. Beyond my technical experience, I am the author of The Rise of AI Newsletter, where I explore AI’s impact on startups and careers. 
 
 ## Skills
 - Languages: JavaScript, Python, HTML, CSS
@@ -30,9 +30,34 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/iyanuoluwa-ajao)
+- Email: ajaoiyanu@gmail.com
+
+
+## Writing
 - [Technical Blog](https://iyanuashiri.hashnode.dev)
 - [The Rise of AI Newsletter](https://theriseofai.substack.com) - Exploring AI's impact on startups, careers, and everything in between, and providing practical insights and frameworks to navigate this new era.
-- Email: ajaoiyanu@gmail.com
+- [Medium](https://iyanuashiri.medium.com/)
+- [Build and Deploy Twitter Bots with Python, Tweepy and PythonAnywhere](https://www.twilio.com/en-us/blog/build-deploy-twitter-bots-python-tweepy-pythonanywhere)
+- 
+
+## Speaking 
+- [Lessons Learned Vibe Coding and Vibe Debugging a Chrome Extension with Windsurf | Iyanuoluwa Ajao| Oreilly AI Codecon 2025](https://www.oreilly.com/CodingwithAI/)
+- [ OWASP Top 10 for LLMs | Iyanuoluwa Ajao | AWS Cloud Security User Group Study Series 2025 2/14](https://www.youtube.com/watch?v=1F14R5nlJww&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh&index=7)
+- [Three Python Concurrency Patterns: Choosing the Right One | Iyanuoluwa Ajao | Conf42 Python 2025](https://www.youtube.com/watch?v=e1GoeJPTSrE&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh&index=3)
+- [Iyanuoluwa Ajao](https://www.conf42.com/speaker_Iyanuoluwa_Ajao)
+- [Debunking Myths About Using Django with MongoDB | Python Nigeria 2018](https://www.youtube.com/watch?v=nJ5jChbdtgo&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh)
+- [Type Hints - Adding Types to Legacy Codebases | Python Nigeria 2018](https://www.youtube.com/watch?v=5XSdD7KQuq4&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh&index=2)
+- 
+
+## Volunteering
+- [Code Contributor @ Open Ethics Initiative](https://openethics.ai/contributors/)
+- [Judge @ Technovation Challenge](https://www.technovation.org/about/)
+- [Judge at HackTheFest](https://hackthefest.com/)
+- [Mentor at TechUp](https://techupafrica.com/)
+
+## Mentioned
+- [Iyanuoluwa Ajao led one of the semi-finalist teams at Hult Prize Competition in partnership with the Clinton Global Initiative and the Hult International Business School](https://lifestyle.thecable.ng/five-nigerian-universities-hult-prize/)
+- [Hult Prize Competition Facebook Post about the semi-finalists](https://www.facebook.com/hultprize/posts/1511484515548004/?_rdc=2&_rdr#)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iyanuashiri)
