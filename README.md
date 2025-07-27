@@ -2,7 +2,7 @@
 # Hello, I'm Iyanuoluwa Ajao 👋
 
 ## About Me
-I am a Software and AI Engineer with over 6 years of experience. I am also an AWS Community Builder. Currently, working on ClassmateBot, a WhatsApp-based AI learning assitant that helps secondary school students learn, retain knowledge, and pass their exams. I am also passionate about creating tools that improve digital experiences and productivity. Beyond my technical experience, I am the author of The Rise of AI Newsletter, where I explore AI’s impact on startups and careers. 
+I am a Software and AI Engineer with over 6 years of experience. I am also an [AWS Community Builder](https://builder.aws.com/community/@iyanuashiri). Currently, working on ClassmateBot, a WhatsApp-based AI learning assitant that helps secondary school students learn, retain knowledge, and pass their exams. I am also passionate about creating tools that improve digital experiences and productivity. Beyond my technical experience, I am the author of The Rise of AI Newsletter, where I explore AI’s impact on startups and careers. 
 
 ## Skills
 - Languages: JavaScript, Python, HTML, CSS
@@ -27,6 +27,8 @@ This is a Python/Django based event management system. A meetup clone. Built wit
 
 ### [twitter-threader](https://github.com/iyanuashiri/twitter-threader)
 A Twitter API library that helps developers POST Twitter threads from longer-form content on the platform. Built using Python..
+
+## Fellowships
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/iyanuoluwa-ajao)
