@@ -43,7 +43,7 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 - 
 
 ## Speaking 
-- [Lessons Learned Vibe Coding and Vibe Debugging a Chrome Extension with Windsurf | Iyanuoluwa Ajao| Oreilly AI Codecon 2025](https://www.oreilly.com/CodingwithAI/)
+- [Lessons Learned Vibe Coding and Vibe Debugging a Chrome Extension with Windsurf | Iyanuoluwa Ajao| Oreilly AI Codecon 2025](https://www.oreilly.com/live-events/coding-with-ai-the-end-of-software-development-as-we-know-it/0642572171612/)
 - [ OWASP Top 10 for LLMs | Iyanuoluwa Ajao | AWS Cloud Security User Group Study Series 2025 2/14](https://www.youtube.com/watch?v=1F14R5nlJww&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh&index=7)
 - [Three Python Concurrency Patterns: Choosing the Right One | Iyanuoluwa Ajao | Conf42 Python 2025](https://www.youtube.com/watch?v=e1GoeJPTSrE&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh&index=3)
 - [Poster Presentation at Society for Digital Mental Health](https://societydmh.org/2025-annual-meeting/)
