@@ -28,7 +28,8 @@ This is a Python/Django based event management system. A meetup clone. Built wit
 ### [twitter-threader](https://github.com/iyanuashiri/twitter-threader)
 A Twitter API library that helps developers POST Twitter threads from longer-form content on the platform. Built using Python..
 
-## Fellowships
+## Fellowships & Programs
+- [AWS Community Builder](https://builder.aws.com/community/@iyanuashiri)
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/iyanuoluwa-ajao)
@@ -40,6 +41,8 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 - [The Rise of AI Newsletter](https://theriseofai.substack.com) - Exploring AI's impact on startups, careers, and everything in between, and providing practical insights and frameworks to navigate this new era.
 - [Medium](https://iyanuashiri.medium.com/)
 - [Build and Deploy Twitter Bots with Python, Tweepy and PythonAnywhere](https://www.twilio.com/en-us/blog/build-deploy-twitter-bots-python-tweepy-pythonanywhere)
+- [Contributor @ Dzone](https://dzone.com/users/5458664/iyanuashiri.html)
+- [Contributor @ Stack Overflow](https://stackoverflow.com/users/4651918/iyanuoluwa-ajao?tab=answers&sort=votes) 
 - 
 
 ## Speaking 
@@ -54,8 +57,12 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 
 ## Volunteering
 - [Code Contributor @ Open Ethics Initiative](https://openethics.ai/contributors/)
+- [Technical Reviewer @ The Pragmatic Programmers]()
+- [Proposal Reviewer @ Neuromatch]()
+- [Judge @ ]() 
 - [Judge @ Technovation Challenge](https://www.technovation.org/about/)
 - [Judge at HackTheFest](https://hackthefest.com/)
+- [Venture Guide @ INSEAD AI Venture Lab]()
 - [Mentor at TechUp](https://techupafrica.com/)
 
 ## Mentioned
