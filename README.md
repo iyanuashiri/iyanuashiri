@@ -57,12 +57,12 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 
 ## Volunteering
 - [Code Contributor @ Open Ethics Initiative](https://openethics.ai/contributors/)
-- [Technical Reviewer @ The Pragmatic Programmers]()
+- [Technical Reviewer @ A Common Sense Guide to AI Engineering published by The Pragmatic Programmers](https://pragprog.com/titles/jwpaieng/a-common-sense-guide-to-ai-engineering/)
 - [Proposal Reviewer @ Neuromatch]()
 - [Judge @ ]() 
 - [Judge @ Technovation Challenge](https://www.technovation.org/about/)
 - [Judge at HackTheFest](https://hackthefest.com/)
-- [Venture Guide @ INSEAD AI Venture Lab]()
+- [Venture Guide @ INSEAD AI Venture Lab](https://www.venture-lab.ai/faq)
 - [Mentor at TechUp](https://techupafrica.com/)
 
 ## Mentioned
