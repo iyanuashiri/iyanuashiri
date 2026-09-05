@@ -55,15 +55,21 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 - [Type Hints - Adding Types to Legacy Codebases | Python Nigeria 2018](https://www.youtube.com/watch?v=5XSdD7KQuq4&list=PLmDWyGLSfAvhCGwMGoKhK04QpuN_Y7Pqh&index=2)
 - 
 
-## Volunteering
-- [Code Contributor @ Open Ethics Initiative](https://openethics.ai/contributors/)
+## Reviewing
 - [Technical Reviewer @ A Common Sense Guide to AI Engineering published by The Pragmatic Programmers](https://pragprog.com/titles/jwpaieng/a-common-sense-guide-to-ai-engineering/)
 - [Proposal Reviewer @ Neuromatch]()
-- [Judge @ ]() 
+
+## Judging
+- [Judge @ Diana Award](https://diana-award.org.uk/our-programmes-and-initiatives/award-and-development/the-diana-award/2026-judges) 
 - [Judge @ Technovation Challenge](https://www.technovation.org/about/)
 - [Judge at HackTheFest](https://hackthefest.com/)
-- [Venture Guide @ INSEAD AI Venture Lab](https://www.venture-lab.ai/faq)
+
+## Mentoring, Advising, and Teaching
 - [Mentor at TechUp](https://techupafrica.com/)
+- [Venture Guide @ INSEAD AI Venture Lab](https://www.venture-lab.ai/faq)
+
+## Voluntering
+- [Code Contributor @ Open Ethics Initiative](https://openethics.ai/contributors/)
 
 ## Mentioned
 - [Iyanuoluwa Ajao led one of the semi-finalist teams at Hult Prize Competition in partnership with the Clinton Global Initiative and the Hult International Business School](https://lifestyle.thecable.ng/five-nigerian-universities-hult-prize/)
