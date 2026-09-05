@@ -31,10 +31,6 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 ## Fellowships & Programs
 - [AWS Community Builder](https://builder.aws.com/community/@iyanuashiri)
 
-## Connect With Me
-- [LinkedIn](https://linkedin.com/in/iyanuoluwa-ajao)
-- Email: ajaoiyanu@gmail.com
-
 
 ## Writing
 - [Technical Blog](https://iyanuashiri.hashnode.dev)
@@ -65,7 +61,7 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 - [Judge at HackTheFest](https://hackthefest.com/)
 
 ## Mentoring, Advising, and Teaching
-- [Mentor at TechUp](https://techupafrica.com/)
+- [Mentor at TechUp](https://lnkd.in/p/eus-n8SE)
 - [Venture Guide @ INSEAD AI Venture Lab](https://www.venture-lab.ai/faq)
 
 ## Voluntering
@@ -74,6 +70,12 @@ A Twitter API library that helps developers POST Twitter threads from longer-for
 ## Mentioned
 - [Iyanuoluwa Ajao led one of the semi-finalist teams at Hult Prize Competition in partnership with the Clinton Global Initiative and the Hult International Business School](https://lifestyle.thecable.ng/five-nigerian-universities-hult-prize/)
 - [Hult Prize Competition Facebook Post about the semi-finalists](https://www.facebook.com/hultprize/posts/1511484515548004/?_rdc=2&_rdr#)
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/iyanuoluwa-ajao)
+- Email: ajaoiyanu@gmail.com
+
+
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iyanuashiri)
